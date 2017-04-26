@@ -24,7 +24,7 @@ public class ProyectofinalProblema2 {
         boolean flag = true;
       int tamano=1;
       double suma=0;
-      double arreglo[] = new double [1000];
+      double arreglo[] = new double [100];
       do{
       
         for (int i=0; i<tamano;i++){      
@@ -37,6 +37,7 @@ public class ProyectofinalProblema2 {
         }
         else{
             flag=false;
+            
         }
         }
       }
